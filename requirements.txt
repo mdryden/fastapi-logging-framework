@@ -1,4 +1,4 @@
-google-cloud-logging==2.2.0
+google-cloud-logging==2.6.0
 pytest==6.2.2
 pytest-mock==3.5.1
 starlette-context==0.3.3
