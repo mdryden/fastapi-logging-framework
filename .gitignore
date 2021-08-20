@@ -1,0 +1,10 @@
+*.log
+
+
+node_modules/
+.vscode/
+
+.env
+*.pyc
+**/__pycache__/**
+.pytest_cache/
